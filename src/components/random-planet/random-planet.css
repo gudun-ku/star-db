@@ -7,4 +7,9 @@
     width: 150px;
     height: 150px;
     border-radius: 10px;
+    margin: .5rem;
+}
+
+.random-planet .list-group-item .term {
+    margin-right: .5rem;
 }
